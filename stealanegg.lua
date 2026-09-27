@@ -1,5 +1,5 @@
 -- Made by pulsehub.gg / discord.gg/pulsezone
-local SLATE_URL = "https://raw.githubusercontent.com/PulseZax/Slate/refs/heads/main/.lua"
+local SLATE_URL = "https://raw.githubusercontent.com/eldonpoll/Steal-a-egg/refs/heads/main/stealaegg.lua"
 
 local CATALOG = {
     {
